@@ -1,24 +1,39 @@
 @import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
 .qoute{
     font-family: 'Merriweather', serif;
-    font-size: 200px;
+    font-size: 100px;
     color: white;
+    text-align: center;
 }
 body {
     background-color: pink;
     color: black;
+    max-width: 400;
   }
   
 ol
 {
-    background-color: black;
-    color: white;
+    
+    color: black;
+    text-align: center;
+    list-style-position: inside;
   }
   
-div {
-    background-color: black;
+.tittle {
+    background-color: rgb(255, 15, 15);
     color: white;
+    text-align: center;
     }
 img{
-        width: 80%;
+        margin: 0 auto;
+        
     }
+h1{
+  text-align: center;
+}
+p{
+  text-align: center;
+}
+div{
+  text-align: center;
+}
