@@ -1,0 +1,41 @@
+body {
+    background-color: gray;
+    
+  }
+
+#tittle
+{
+   
+  width: 100%;
+}
+
+#person
+{
+  width: 200px;
+  height: 200px;
+  border: 20px solid darkgrey;
+  margin-right: 100px;
+  border-radius: 200px;
+
+}
+
+#desk
+{
+  width: 200px;
+  height: 200px;
+  border: 20px solid darkgrey;
+  margin-left: 200px;
+  border-radius: 200px;
+
+}
+
+#graphic
+{
+  width: 200px;
+  height: 200px;
+  border: 20px solid darkgrey;
+  margin-left: 100px;
+  margin-right: 100px;
+  border-radius: 200px;
+  
+}
