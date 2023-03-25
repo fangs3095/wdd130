@@ -264,3 +264,11 @@ nav a:hover {
   from {opacity: .4}
   to {opacity: 1}
 }
+.content1 {
+  /* This is the parent of the activity 1 boxes. */
+  
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  justify-items: center;
+  grid-gap: 20px;
+}
