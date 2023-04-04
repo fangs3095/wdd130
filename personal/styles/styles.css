@@ -272,3 +272,12 @@ nav a:hover {
   justify-items: center;
   grid-gap: 20px;
 }
+footer {
+  padding: 1em;
+  text-align: center;
+  color: var(--headline-color-on-color);
+  background-color: var(--paragraph-background-color);
+}
+footer > h1, footer > h2 {
+  color: var(--headline-color-on-color);
+}
